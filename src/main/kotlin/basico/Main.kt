@@ -39,6 +39,10 @@ fun main() {
     val num7 = true
     val num8: Char = 'K'
     val num9: String = "Olá mundo"
+    var num10 : Any // aceita qualquer tipo
+
+    num10 = true
+    num10 = 10
 
     println(num7 is Boolean)
     println(num3.dec())
