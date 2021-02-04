@@ -2,9 +2,9 @@ package basico.exercicios
 
 fun main() {
 
-    var a : Boolean = true
-    var b: Boolean = true
+    val a = false
+    val b = false
 
-    println(a && b)
+    println(a || b)
 
 }
