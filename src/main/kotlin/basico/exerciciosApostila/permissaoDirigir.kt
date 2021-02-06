@@ -1,6 +1,6 @@
 @file:Suppress("IMPLICIT_CAST_TO_ANY")
 
-package basico.exercicios
+package basico.exerciciosApostila
 
 /*
 verificar se a pessoa é maior de 18 anos, se for, informar "Pode Dirigir ", senão "Não pode
@@ -9,7 +9,7 @@ mensagem qualquer como parametro), caso não tenha mensagem, usar o default “,
 mensagem “em liberação", se for informado Null no campo de mensagem , deve por default informar
 "habilitacao não autorizada", criar uma função e entrada de parametros pelo teclado, para esse
 exercício.
- */
+*/
 
 import java.util.*
 

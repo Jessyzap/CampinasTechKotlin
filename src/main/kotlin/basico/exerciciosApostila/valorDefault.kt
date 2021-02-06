@@ -1,4 +1,4 @@
-package basico.exercicios
+package basico.exerciciosApostila
 
 fun main() {
 

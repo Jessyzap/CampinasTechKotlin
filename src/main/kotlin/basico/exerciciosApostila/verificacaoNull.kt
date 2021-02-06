@@ -1,4 +1,4 @@
-package basico.exercicios
+package basico.exerciciosApostila
 
 import java.util.*
 
@@ -8,7 +8,7 @@ fun main() {
     //val a: Int? = null
     val a: Int = Scanner(System.`in`).nextInt()
 
-    //verificarNulo(a)
+    verificarNulo(a)
     verificacaoValor(a)
 }
 

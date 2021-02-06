@@ -2,12 +2,13 @@ package basico.controle
 
 fun main() {
 
-    /*
+/*
     val alunos = listOf("Huelton", "Carlos", "Jose")
 
     for ((indice, aluno) in alunos.withIndex()) {
         println("posição ${indice + 1} - $aluno")
     }
+
 
     for (i in 1..10) {
         if (i == 5) {

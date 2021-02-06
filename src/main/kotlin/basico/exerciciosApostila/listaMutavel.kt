@@ -1,4 +1,4 @@
-package basico.exercicios
+package basico.exerciciosApostila
 
 import java.util.*
 
@@ -26,4 +26,3 @@ fun main() {
     println(lista)
     println("Resultado da ${lista[1]}")
 }
-
