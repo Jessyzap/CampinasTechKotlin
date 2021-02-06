@@ -5,8 +5,8 @@ fun main() {
     val nome = "Jéssica"
     val aprovados = listOf("Jose", "Claudia", "Pedro")
 
-    var a: Int = 356.dec()
-    var b: String = a.toString()
+    val a: Int = 356.dec()
+    val b: String = a.toString()
 
     println("Int: $a")
     println("Primeiro caractere da String é: ${b.first()}")
