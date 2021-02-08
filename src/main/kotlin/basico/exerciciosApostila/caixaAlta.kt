@@ -10,8 +10,8 @@ fun main() {
     caixaAlta(nome)
 }
 
-fun caixaAlta(nome: String, Defaultnome: String = "Jéssica") {
+fun caixaAlta(nome: String, DefaultNome: String = "Jéssica") {
 
     println("Nome $nome em caixa alta: ${nome.toUpperCase()}")
-    println("Nome $Defaultnome em caixa alta: ${Defaultnome.toUpperCase()}")
+    println("Nome $DefaultNome em caixa alta: ${DefaultNome.toUpperCase()}")
 }

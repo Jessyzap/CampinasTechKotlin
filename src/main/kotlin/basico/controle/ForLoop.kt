@@ -45,6 +45,14 @@ fun main() {
     for (i in 10 downTo 1 step 2) {
         println(i)
     }
+
+    val lista2 = mutableSetOf<String>()
+
+    for(i in 0..5){
+        lista2.add("a")
+    }
+    println(lista2)
+
     */
 
     // Argumentos ou parâmetros nomeados
@@ -53,4 +61,7 @@ fun main() {
 
 fun nivelHierarquico(funcionario: String, chefe: String): String {
     return "$funcionario trabalha para a $chefe"
+
 }
+
+
